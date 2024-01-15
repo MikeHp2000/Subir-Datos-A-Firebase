@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-1-tkinter-3748e",
+  "private_key_id": "587c25ce8bc6d820bce791965d54015cf1b9b106",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+JBHzSu44j5ni\nxjw2hXHwTazan666zouUaLfqi4zmbPJxDsEYpkyh7kAe2kqnfZRZewKEuYzKR6gv\nUswuGVoI6PW95UtABgdENk5hmcDNMSj01IzxjDNspUJE7bG+/2THBQYfyHu3JZx+\nGjVvHduE+grWFwWy/xhZFB/6AMp+m+XPQNv9pWbXfCF5wvoB6ALeeOqWXC3SkEEi\n1rdPm3ZYyiIHUtJk4r78Da++8DNXBYjVJdVaGL0pNd7FvABmf8ELGczZmMKxX3CM\nxBa9+WJcPBB3/fxGN9QRF3RWH/YmfTGBsXIKa2duxs+Zf9VW8spbMfd3km1OXPzi\nEHAH7XhTAgMBAAECggEAQidHjYeg6VHg/vrsgSWdljdYL/pFrx3khz6F2pcx7wux\nsC8rdJmLaP19Fp7pQWvaPOWk4yuxdcFHnStn+ZP9dMMkmKyZqU1PouZoD+IQJ/P2\nJXR8EyAt1huLOnMel+7Aj9PKJS26CWcPEvqoY6AWO6ZJNeJtq7DANmHfnDpBOZoH\nPXa/j8s+ghIN9MuJXbrRxi8fyweC82M1xeIxuFapFkWir8oJq3LcKaEgJ9BfTBeP\nEjXQ4rQ49Tm2dy3OF4iNtDXjGvGEG4bkyfCJEpFJ2reVYl5JncGeV6P8MKIfg8cz\nVVmEp7aoK7BTMA+9sgM02+3SQUf04aJ9Jmga/brIxQKBgQDn0C7eB/1GuZOsJ9r6\nO0kTvTsIpl0PU3KO7l8p+Aq6hf1ZgdEd8f4g6WMSeOjYMBS0wI+pDMa33clPt4EU\nCO5rhU29AwLY4T7kbmhQoo8VHYPi23UGvesT3u/9Q6QZTu0Fml2msSv1xG9sZymK\nO5KwTZGDcPHM8megHgLe8SzP9wKBgQDR+s3Uow3HqhSgVWMFUyVJMgn5J2T31KwN\nH3G2djeiaT/RqVG/b1VpXzd/UGh4oq8z7kTdF83ZyJ+suZtS4OL1sFSx6Bq/uhOf\nAqyCbAX/ZQWt5q8ZOT7bF/w1R1mOTtcFM9OPsflTM6bT7nlqSypnI3kfL3bo0FNZ\nSVosByS7hQKBgDHvCTlwlSE39lReHXBLdvlWiLHbTC5x9jpNpJggwwbct+8g5I/D\nwc8LFvkyrE1tRfiNhiSPCPswPh361EYhimIEy/MMA//9vRNtqPC9o36T5gXm6fVy\n0YFtQ1rVyDJfavULBGNUxLhjAPFj43HQVU++1bpviNZx3NqDvHCTmOiPAoGAKyrV\nX855ib+UZ/XF2pViR+7qj/ciUbS9/iClvu4Et/XNMewOKz3XIEd74EeGgq5nOFTW\ngWFgZ1JQSTELFnm3Du1GLCDcRugZGopxLorInN2G0l5nRtc27dG7frSBW7kniSFD\nb/oVmJ44wL745Po46GUphFi8qFYTnHpw+DYrvgUCgYBojxnBdhO2AFDaCYGnNCjo\n8mh/JDVkovcPEmHciwtvABycPGmUKCMzpH3AiApI1Jl8yw1Cb8ermCY/nk5kWX+5\nRBYOPzhc6UU+HTdlxQzWmkn6geIFZxEpZU1PVJOorPMZpyHsJaze4BoRwcfxzkJy\nQ22dJmV93/kVaR+kKES4sQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aj28g@app-1-tkinter-3748e.iam.gserviceaccount.com",
+  "client_id": "115566116696734079309",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aj28g%40app-1-tkinter-3748e.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

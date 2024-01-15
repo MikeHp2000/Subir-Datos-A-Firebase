@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "python-sheet-tesel-408702",
+  "private_key_id": "fd8b27b9ef62899c5a9681e6d872692a61179ce0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZXnDkVUDNh1iz\nzUkLI0tpVGhvKZE5+73QbZM+BI80Guowe1TE2HViBegN9q+4EAQFuaRLD2XiHsnv\naHPEUEfOeqDBnhUEi/Ln+/UXJuxXlt6sSH9pUW0gqWSdj0WLaM/AsuIMoyCkTMLz\nqmA+FwiPLZrdn6u6y2sF0HnMC18ipcIcB+LghwrgpQNSmXvCgUcKcYtVo9u2mwEp\nD+5paWH/cp7YWarS3a3JeLxLc7mI4o2G1hztnhv8Ml3tsPhn6HN27rn4klwBbUxg\n2mekbURbqrcdMh9SllqzFYIpAKnGjXaZPd45GUt+OufyTsjIG9PeqXnONfjXqidE\nKHIAhianAgMBAAECggEAK7kN7zfg0Za0dnJIC4f9bsHuQdH0Jtwm2ap40CQ9o+b4\nDWl5ayD5N47llw10WgtKq9YkIH8H6Nx1lQUHKElXsEZFWLzSEHiQEy7ApXgMWS/9\nOV1Z15br4wJ/vRupCvo5s9KnmpAjjDjui/HM6yBZ9ebf/E1WTzwEmoZNQYhWChM7\nbPY5mO9K4V0BkpFBRxfoZFY527pyclF1h25SZRQYYiEPoW5P2yD9MMdGD3HUStYT\nrGqtcKCyL4gu8e+i4USdLpx8tKbZ7FJ0A4oaxvZwGofhmu22fT7w06+//62LTQUC\nZu4LBd+T+Tc3L/7ObQQLd050p+xpluSxtn0910KrXQKBgQD6wx0/AKF/LO+7BHXT\nQOZSNNRDecyuGtQvrWgBy95lMmV/CH3qv9lxXfFmPYpyTwQDxFC3aNIwtoaVa0fz\n1Y6p9tymlXehA2ERtWEu0v8d5EqWRoo687+faZCYl3k7UZpEAf3FPw6PmbeogKX0\nPTQH6XTdRzyPiWWvNrsNRnuaAwKBgQDd6MPUKJYw1ZGNLPvIbOtzhhGtskvASjm6\nP+AW4mBNxFoyKeiZvbCAeJvHS8ZY6gcdiLil3CTHBViKjHBcsLuiWIdiRuLyKQuc\nZkdlBBeQ+WP9epwsg/EDxMi94qJvWVHIYEO9WzTUP7kopCQeHhZ7Y3FgWRWPV8wJ\nJKABJH1xjQKBgHbg2tOMXANrbTcO1UDSKp5cNyjJ7DO5uk/j+EOpv4PgEWfYwcDx\nNIdfDtr2X9TzCqcygUWB5ut7DHB3jIPXASwoQNCkWTM24+S+RRUqqBEmsglt5Ygv\nF+/d3tPIM4vgkq6c9w50Z1XCfOPgIUyZWzpI/cMNS3OMom0fGCwh9uS7AoGBAK5o\nJqE0VPaEpCTE2g6oLFVbZcGShB7ZN42+bi0ONopobEtIzNsoTvRp1mVIlNeE95qq\nvhT9dJpHBVO/FQCElrP9yEnhVLTmtY1yhWJLWQpEN+Yc22nROTexDeTPnsLM/I3z\nusm0SU0X2Dqs5wYUt666dX04Bs3mPyJgerDrMPxxAoGAGhC58LlHIGZopd9BDgfw\njZ+0rkeS2pRSQ2UZ/5s85+3IZ5aTS/SK0CqjBffqUJBaz2sPp5qn1chUZ4gUQuMs\nTRFD6Qq3Ap0Nj/EwYzcvae1sMRwqfqTaxtB60XsDndrDmG+/+hl+VtXwriL6zBUi\nLQfAsQ5b8Wqbra71EFkhBss=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-sheets-tesel@python-sheet-tesel-408702.iam.gserviceaccount.com",
+  "client_id": "111322674611406232814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-sheets-tesel%40python-sheet-tesel-408702.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
